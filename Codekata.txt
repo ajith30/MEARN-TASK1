@@ -1,2 +1,4 @@
 I have practiced coding Problems in codekata.
 Till now I have completed Input/Output and Absolute Beginner section. And working on Basics and Mathematics section.
+
+The window object is the topmost object of DOM hierarchy. It represents a browser window or frame that displays the contents of the webpage. Whenever a window appears on the screen to display the contents of document, the window object is created.
